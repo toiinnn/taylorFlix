@@ -14,7 +14,7 @@ function Home() {
       <BannerMain 
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end"}
+        videoDescription={"The lead single from Folklore, Cardigan"}
       />
 
       <Carousel 
@@ -40,6 +40,9 @@ function Home() {
 
       <Carousel 
         category={dadosIniciais.categorias[5]}
+      />
+      <Carousel 
+        category={dadosIniciais.categorias[6]}
       />
 
       <Footer />

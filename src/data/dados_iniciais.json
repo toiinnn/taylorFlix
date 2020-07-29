@@ -1,183 +1,229 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Lover",
+      "link": "https://www.taylorswift.com/",
+      "cor": "#edb2d4",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Stream Lover on Spotify",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq?si=BsJMcFpPTdWMMaj4poWozA"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Here it is the lead single from 8th Taylor Swift album, Folklore",
+          "url": "https://www.youtube.com/watch?v=K-a8s8OLBSE"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+          "url": "https://www.youtube.com/watch?v=FuXNumBwDOM"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Lover",
+          "url": "https://www.youtube.com/watch?v=-BjZmE2gtdo"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "You Need to Calm Down",
+          "url": "https://www.youtube.com/watch?v=Dkk9gvTmCXY"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "The Man",
+          "url": "https://www.youtube.com/watch?v=AqAJLh9wuZ0"
+        }       
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "reputation",
+      "cor": "#D9D9D9",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Stream reputation on Spotify",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv?si=VRfTURoERUuZQ94G7w9jzQ"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Look What You Made Me Do",
+          "url": "https://www.youtube.com/watch?v=3tmd-ClpJxA"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "...Ready for it?",
+          "url": "https://www.youtube.com/watch?v=wIft-t-MQuE"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "End Game ft. Ed Sheeran, Future",
+          "url": "https://www.youtube.com/watch?v=dfnCAmr569k"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Delicate",
+          "url": "https://www.youtube.com/watch?v=tCXGJQYZ9JA"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "1989",
+      "cor": "#d3c7ad",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Stream 1989 on Spotify",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf?si=ItUyqVd3QLSEjXibpOe1Bw"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Shake It Off",
+          "url": "https://www.youtube.com/watch?v=nfWlot6h_JM"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Blank Space",
+          "url": "https://www.youtube.com/watch?v=e-ORhEE9VVg"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Style",
+          "url": "https://www.youtube.com/watch?v=-CmadmM5cOk"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Bad Blood ft. Kendrick Lamar",
+          "url": "https://www.youtube.com/watch?v=QcIy9NiNbmo"
+        },
+        {
+          "titulo": "Wildest Dreams",
+          "url": "https://www.youtube.com/watch?v=IdneKLhsWOQ"
+        },
+        {
+          "titulo": "Out of the Woods",
+          "url": "https://www.youtube.com/watch?v=JLf9q36UsBk"
+        },
+        {
+          "titulo": "New Romantics",
+          "url": "https://www.youtube.com/watch?v=wyK7YuwUWsU"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Red",
+      "cor": "#a71e44",
+      "link_extra":{
+        "text": "Stream Red on Spotify",
+        "url": "https://open.spotify.com/album/1KVKqWeRuXsJDLTW0VuD29?si=g5yR_AGpRziH1wxh_JrsHQ"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "We Are Never Ever Getting Back Together",
+          "url": "https://www.youtube.com/watch?v=WA4iX5D9Z64"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Begin Again",
+          "url": "https://www.youtube.com/watch?v=cMPEd8m79Hw"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "I Knew You Were Trouble",
+          "url": "https://www.youtube.com/watch?v=vNoKguSdy4Y"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "22",
+          "url": "https://www.youtube.com/watch?v=AgFeZr5ptV8"
+        },
+        {
+          "titulo": "Red",
+          "url": "https://www.youtube.com/watch?v=Zlot0i3Zykw"
+        },
+        {
+          "titulo": "Everything has Changed",
+          "url": "https://www.youtube.com/watch?v=w1oM3kQpXRo"
+        },
+        {
+          "titulo": "The Last Time ft. Gary Lightbody",
+          "url": "https://www.youtube.com/watch?v=QuijXg8wm28"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Speak Now",
+      "cor": "#802e7c",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Stream Speak Now on Spotify",
+        "url": "https://open.spotify.com/album/6S6JQWzUrJVcJLK4fi74Fw?si=xYNTk30ESlm60tVxKb8kzg"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Mine",
+          "url": "https://www.youtube.com/watch?v=XPBwXKgDTdE"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Back to December",
+          "url": "https://www.youtube.com/watch?v=QUwxKWT6m7U"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Mean",
+          "url": "https://www.youtube.com/watch?v=jYa1eI1hpDE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "The Story of Us",
+          "url": "https://www.youtube.com/watch?v=nN6VR92V70M"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Speak Now",
+          "url": "https://www.youtube.com/watch?v=oKar-tF__ac"
+        },
+        {
+          "titulo": "Ours",
+          "url": "https://www.youtube.com/watch?v=LZ34LlaIk88"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Fearless",
+      "cor": "#c7a768",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Stream Fearless on Spotify",
+        "url": "https://open.spotify.com/album/2gP2LMVcIFgVczSJqn340t?si=BRiQBqSATeWj8NvEQS7WvQ"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Love Story",
+          "url": "https://www.youtube.com/watch?v=8xg3vE8Ie_E"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "White Horse",
+          "url": "https://www.youtube.com/watch?v=D1Xr-JFLxik"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "You Belong With Me",
+          "url": "https://www.youtube.com/watch?v=D1Xr-JFLxik"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Fifteen",
+          "url": "https://www.youtube.com/watch?v=Pb-K2tXWK4w"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Fearless",
+          "url": "https://www.youtube.com/watch?v=ptSjNWnzpjg"
+        }
+      ]
+    },
+    {
+      "titulo": "Taylor Swift",
+      "cor": "#42a6c5",
+      "link_extra": {
+        "text": "Stream Taylor Swift on Spotify",
+        "url": "https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw?si=iPWhqycyTu-AN5Ji3YjnoA"
+      },
+      "videos": [
+        {
+          "titulo": "Tim McGraw",
+          "url": "https://www.youtube.com/watch?v=GkD20ajVxnY"
+        },
+        {
+          "titulo": "Teardrops On My Guitar",
+          "url": "https://www.youtube.com/watch?v=xKCek6_dB0M"
+        },
+        {
+          "titulo": "Our Song",
+          "url": "https://www.youtube.com/watch?v=Jb2stN7kH28"
+        },
+        {
+          "titulo": "Picture to Burn",
+          "url": "https://www.youtube.com/watch?v=yCMqcFAigRg"
+        },
+        {
+          "titulo": "Should've Said No",
+          "url": "https://www.youtube.com/watch?v=v9bxXO9fj98"
         }
       ]
     }
