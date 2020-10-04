@@ -17,33 +17,18 @@ function Home() {
         videoDescription={"The lead single from Folklore, Cardigan"}
       />
 
-      <Carousel 
-        ignoreFirstVideo
-        category={dadosIniciais.categorias[0]}
-      />
-
-      <Carousel 
-        category={dadosIniciais.categorias[1]}
-      />
-
-      <Carousel 
-        category={dadosIniciais.categorias[2]}
-      />
-
-      <Carousel 
-        category={dadosIniciais.categorias[3]}
-      />
-
-      <Carousel 
-        category={dadosIniciais.categorias[4]}
-      />
-
-      <Carousel 
-        category={dadosIniciais.categorias[5]}
-      />
-      <Carousel 
-        category={dadosIniciais.categorias[6]}
-      />
+      {
+        dadosIniciais.categorias.map((categoria, index) => (
+          index === 1? 
+            <Carousel 
+              ignoreFirstVideo
+              category={categoria}
+            /> :            
+            <Carousel 
+              category={categoria}
+            />
+        ))
+      }
 
       <Footer />
 
